@@ -1,0 +1,12 @@
+2. отличий нет
+4. всего 9(из них 4 - мои и 5 - создателя) коммитов:
+    init
+    boots
+    README added
+    dots
+    fix readme
+
+    Merge remote-tracking branch 'origin/boots' into boots_buttons
+    Merge remote-tracking branch 'origin/buttons' into boots_buttons
+    initial commit
+    edit hometask.txt
