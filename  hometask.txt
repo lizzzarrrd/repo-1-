@@ -1,12 +1,17 @@
 2. отличий нет
-4. всего 9(из них 4 - мои и 5 - создателя) коммитов:
+4. на данный момент всего 11(из них 5 - мои и 6 - создателя) коммитов:
     init
+    heat added
     boots
     README added
     dots
     fix readme
 
-    Merge remote-tracking branch 'origin/boots' into boots_buttons
-    Merge remote-tracking branch 'origin/buttons' into boots_buttons
+    Merge branch 'boots' into boots_buttons
+    Merge branch 'buttons' into boots_buttons
+    Merge branch 'boots_buttons'
+    Merge branch 'hat'
     initial commit
     edit hometask.txt
+
+но из-за измениений в hometask.txt +1(т.е будет 12)
